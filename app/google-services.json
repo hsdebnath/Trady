@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "191194138857",
+    "firebase_url": "https://trady-9d285.firebaseio.com",
+    "project_id": "trady-9d285",
+    "storage_bucket": "trady-9d285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191194138857:android:2e8cf18eed54a3c9c54878",
+        "android_client_info": {
+          "package_name": "com.example.trady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191194138857-od0mbmdace213smh0ppdov0b1o21iqbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChbZ0nbKScAVeEMwL7-RA-nFS87KIUAwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191194138857-od0mbmdace213smh0ppdov0b1o21iqbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

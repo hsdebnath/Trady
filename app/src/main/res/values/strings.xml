@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Trady</string>
+    <string name="msg_token_fmt">string valueresource</string>
+</resources>
